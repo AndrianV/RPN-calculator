@@ -86,6 +86,3 @@ $RECYCLE.BIN/
 
 # End of https://www.gitignore.io/api/java,macos,windows,netbeans
 /Test/nbproject/private/
-/FOG_project/target/
-/mavenFog/target/
-/mavenFog/nbproject/
